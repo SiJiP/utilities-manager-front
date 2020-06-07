@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit<code>src/App.js</code> and save to reload.
-          I'm done with CI....
+          I'm done with CI....and that's great
         </p>
         <a
           className="App-link"
