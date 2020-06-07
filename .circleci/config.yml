@@ -23,4 +23,4 @@ jobs:
           command: |
             ./cc-test-reporter before-build
             npm run test --coverage
-            ./cc-test-reporter after-build --debug --exit-code $?
+            ./cc-test-reporter format-coverage --exit-code $?
