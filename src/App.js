@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>src/App.js</code> and save to reload.
+          Edit<code>src/App.js</code> and save to reload.
+          I'm done with CI
         </p>
         <a
           className="App-link"
