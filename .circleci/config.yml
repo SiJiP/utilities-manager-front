@@ -23,4 +23,4 @@ jobs:
           command: |
             ./cc-test-reporter before-build
             npm run test --coverage
-            ./cc-test-reporter after-build -e --exit-code $?
+            ./cc-test-reporter after-build --coverage-input-type clover --exit-code $?
